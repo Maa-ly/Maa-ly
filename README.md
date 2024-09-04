@@ -1,10 +1,11 @@
 # 👋 Hey there, I’m @Maa-ly!
 
-![download (4)](https://github.com/user-attachments/assets/5da89f44-5368-44e1-a708-64a4f741c5e1)
+![download (4)](https://github.com/user-attachments/assets/b18607c0-0be1-4fa2-a62b-8cef4fb606ec)
 
 
 Welcome to my digital playground! 🌸 I’m diving deep into the world of blockchain, especially with Solidity and Rust, 
-and I’m super excited to keep learning more. I’m all about collaboration and contribution—nothing gets me more fired up than working on awesome projects with amazing people.
+and I’m super excited to keep learning more. 
+I’m all about collaboration and contribution—nothing gets me more fired up than working on awesome projects with amazing people.
 Need a hackathon teammate? Don’t wait—hit me up, and let’s make some magic happen! ✨
 
 ## 👀 What gets me excited:
