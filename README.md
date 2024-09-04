@@ -1,6 +1,7 @@
 # 👋 Hey there, I’m @Maa-ly!
 
-![download (4)](https://github.com/user-attachments/assets/b18607c0-0be1-4fa2-a62b-8cef4fb606ec)
+![download (5)](https://github.com/user-attachments/assets/5b334dee-66e8-42bf-8846-14a4344e5095)
+
 
 
 Welcome to my digital playground! 🌸 I’m diving deep into the world of blockchain, especially with Solidity and Rust, 
