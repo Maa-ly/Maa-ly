@@ -1,6 +1,7 @@
 # 👋 Hey there, I’m @Maa-ly!
 
-![download (5)](https://github.com/user-attachments/assets/5b334dee-66e8-42bf-8846-14a4344e5095)
+![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/user-attachments/assets/d50205eb-60f6-430f-9be3-879af790d165)
+
 
 
 
@@ -8,6 +9,9 @@ Welcome to my digital playground! 🌸 I’m diving deep into the world of block
 and I’m super excited to keep learning more. 
 I’m all about collaboration and contribution—nothing gets me more fired up than working on awesome projects with amazing people.
 Need a hackathon teammate? Don’t wait—hit me up, and let’s make some magic happen! ✨
+
+![Uploading download.gif…]()
+
 
 ## 👀 What gets me excited:
 - DeFi, because who doesn’t love decentralized money? 💸
