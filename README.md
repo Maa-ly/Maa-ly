@@ -10,7 +10,7 @@ and I’m super excited to keep learning more.
 I’m all about collaboration and contribution—nothing gets me more fired up than working on awesome projects with amazing people.
 Need a hackathon teammate? Don’t wait—hit me up, and let’s make some magic happen! ✨
 
-![Uploading download.gif…]()
+
 
 
 ## 👀 What gets me excited:
