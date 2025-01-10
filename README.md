@@ -1,5 +1,5 @@
 # 💫 About Me:
- ustaj vojsko<br>Hello there, Im Lee<br>Welcome
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77E25&background=FFE9F800&width=435&lines=USTAJ+VOJSKO;Warning%3A+backend+sorceress+at+work;I+live+on+the+Ledger;Wanna+hack+together%3F+sure+dm" alt="Typing SVG" /></a>
 
 
 # 💻 Tech Stack:
