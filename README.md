@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a DLT lover, name is Lydia. I live and breathe anything DLT  
+**Just a DLT lover, name is Lydia. I live and breathe anything DLT**
 
 ## Portfolio: https://lee-port-folio.vercel.app/
 
