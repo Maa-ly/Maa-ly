@@ -1,9 +1,35 @@
 ![The Coolest Girl Hacker T-Shirt](https://github.com/user-attachments/assets/d6befc36-ba2d-4663-8ed4-d9dae7224943)
 
-# 💫 About Me:
-**Just a DLT lover, name is Lydia. I live and breathe anything DLT**  
+---
 
-## Portfolio: https://lee-port-folio.vercel.app/
+<table>
+<tr>
+<td width="40%">
+  
+<img src="https://github.com/user-attachments/assets/d6befc36-ba2d-4663-8ed4-d9dae7224943" width="100%" />
+
+</td>
+<td width="60%" valign="top">
+
+# 💫 About Me
+👩🏽‍💻 I’m **Lydia Gyamfi Ahenkorah** — a girl who doesn’t just love DLT, I *live it*.  
+From **SVMs** to **EVMs**, from **Aptos DevTools** to **On-chain investigations**, my playground is the decentralized universe.  
+
+💡 I’m fascinated by the **“what if but if”** possibilities of blockchain —  
+where **01001001 00100000 01100001 01101101** (*I am*) collides with creativity,  
+and binary turns into poetry.  
+
+🚀 My mission:  
+- Build systems that **can’t be censored**  
+- Investigate the **hidden trails on-chain** like a detective 🕵🏽‍♀️  
+- Push the limits of Rust ⚡ Solidity ⚡ Move  
+- Show the world that girls can be **hackers, builders, and bosses** ✨  
+
+🌐 **Portfolio**: [lee-port-folio.vercel.app](https://lee-port-folio.vercel.app/)  
+
+</td>
+</tr>
+</table>
 
 ---
 
