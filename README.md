@@ -1,4 +1,4 @@
-![The Coolest Girl Hacker T-Shirt](https://github.com/user-attachments/assets/d6befc36-ba2d-4663-8ed4-d9dae7224943)
+
 
 ---
 
