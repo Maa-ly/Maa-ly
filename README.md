@@ -22,8 +22,8 @@ and binary turns into poetry.
 🚀 My mission:  
 - Build systems that **can’t be censored**  
 - Investigate the **hidden trails on-chain** like a detective 🕵🏽‍♀️  
-- Push the limits of Rust ⚡ Solidity ⚡ Move  
-- Show the world that girls can be **hackers, builders, and bosses** ✨  
+- Push the limits of Rust ⚡ Solidity ⚡ Move  | DLT
+    
 
 🌐 **Portfolio**: [lee-port-folio.vercel.app](https://lee-port-folio.vercel.app/)  
 
